@@ -1,34 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.136
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WideWorldImporters.API", "WideWorldImporters.API\WideWorldImporters.API.csproj", "{0C2B2EA5-1477-4EDA-8423-CFD98695B738}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WideWorldImporters.API.UnitTests", "WideWorldImporters.API.UnitTests\WideWorldImporters.API.UnitTests.csproj", "{85B2E989-3CB2-4D39-B86C-A23328AE9531}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WideWorldImporters.API.IntegrationTests", "WideWorldImporters.API.IntegrationTests\WideWorldImporters.API.IntegrationTests.csproj", "{B400AF04-BDEF-4A96-870F-AE24C77BDF93}"
-EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "react-api", "react-api\", "{733A458B-CBC4-40FF-974B-BA828A3F0C2E}"
-	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_52485"
-		Debug.AspNetCompiler.PhysicalPath = "react-api\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52485\"
-		Debug.AspNetCompiler.Updateable = "true"
-		Debug.AspNetCompiler.ForceOverwrite = "true"
-		Debug.AspNetCompiler.FixedNames = "false"
-		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_52485"
-		Release.AspNetCompiler.PhysicalPath = "react-api\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52485\"
-		Release.AspNetCompiler.Updateable = "true"
-		Release.AspNetCompiler.ForceOverwrite = "true"
-		Release.AspNetCompiler.FixedNames = "false"
-		Release.AspNetCompiler.Debug = "False"
-		VWDPort = "52485"
-		SlnRelativePath = "react-api\"
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -48,10 +27,6 @@ Global
 		{B400AF04-BDEF-4A96-870F-AE24C77BDF93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B400AF04-BDEF-4A96-870F-AE24C77BDF93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B400AF04-BDEF-4A96-870F-AE24C77BDF93}.Release|Any CPU.Build.0 = Release|Any CPU
-		{733A458B-CBC4-40FF-974B-BA828A3F0C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{733A458B-CBC4-40FF-974B-BA828A3F0C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{733A458B-CBC4-40FF-974B-BA828A3F0C2E}.Release|Any CPU.ActiveCfg = Debug|Any CPU
-		{733A458B-CBC4-40FF-974B-BA828A3F0C2E}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

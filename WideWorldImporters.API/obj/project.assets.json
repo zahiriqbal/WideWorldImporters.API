@@ -12645,11 +12645,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DEV009.VOADEVLT009\\source\\repos\\WideWorldImporters.API\\WideWorldImporters.API\\WideWorldImporters.API.csproj",
+      "projectUniqueName": "C:\\Users\\DEV009.VOADEVLT009\\Desktop\\WideWorldImporters.API\\WideWorldImporters.API\\WideWorldImporters.API.csproj",
       "projectName": "WideWorldImporters.API",
-      "projectPath": "C:\\Users\\DEV009.VOADEVLT009\\source\\repos\\WideWorldImporters.API\\WideWorldImporters.API\\WideWorldImporters.API.csproj",
+      "projectPath": "C:\\Users\\DEV009.VOADEVLT009\\Desktop\\WideWorldImporters.API\\WideWorldImporters.API\\WideWorldImporters.API.csproj",
       "packagesPath": "C:\\Users\\DEV009.VOADEVLT009\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DEV009.VOADEVLT009\\source\\repos\\WideWorldImporters.API\\WideWorldImporters.API\\obj\\",
+      "outputPath": "C:\\Users\\DEV009.VOADEVLT009\\Desktop\\WideWorldImporters.API\\WideWorldImporters.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

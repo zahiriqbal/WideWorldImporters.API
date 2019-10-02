@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DEV009.VOADEVLT009\\source\\repos\\WideWorldImporters.API\\WideWorldImporters.API.UnitTests\\WideWorldImporters.API.UnitTests.csproj": {}
+    "C:\\Users\\DEV009.VOADEVLT009\\Desktop\\WideWorldImporters.API\\WideWorldImporters.API.UnitTests\\WideWorldImporters.API.UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DEV009.VOADEVLT009\\source\\repos\\WideWorldImporters.API\\WideWorldImporters.API.UnitTests\\WideWorldImporters.API.UnitTests.csproj": {
+    "C:\\Users\\DEV009.VOADEVLT009\\Desktop\\WideWorldImporters.API\\WideWorldImporters.API.UnitTests\\WideWorldImporters.API.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DEV009.VOADEVLT009\\source\\repos\\WideWorldImporters.API\\WideWorldImporters.API.UnitTests\\WideWorldImporters.API.UnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\DEV009.VOADEVLT009\\Desktop\\WideWorldImporters.API\\WideWorldImporters.API.UnitTests\\WideWorldImporters.API.UnitTests.csproj",
         "projectName": "WideWorldImporters.API.UnitTests",
-        "projectPath": "C:\\Users\\DEV009.VOADEVLT009\\source\\repos\\WideWorldImporters.API\\WideWorldImporters.API.UnitTests\\WideWorldImporters.API.UnitTests.csproj",
+        "projectPath": "C:\\Users\\DEV009.VOADEVLT009\\Desktop\\WideWorldImporters.API\\WideWorldImporters.API.UnitTests\\WideWorldImporters.API.UnitTests.csproj",
         "packagesPath": "C:\\Users\\DEV009.VOADEVLT009\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DEV009.VOADEVLT009\\source\\repos\\WideWorldImporters.API\\WideWorldImporters.API.UnitTests\\obj\\",
+        "outputPath": "C:\\Users\\DEV009.VOADEVLT009\\Desktop\\WideWorldImporters.API\\WideWorldImporters.API.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\DEV009.VOADEVLT009\\source\\repos\\WideWorldImporters.API\\WideWorldImporters.API\\WideWorldImporters.API.csproj": {
-                "projectPath": "C:\\Users\\DEV009.VOADEVLT009\\source\\repos\\WideWorldImporters.API\\WideWorldImporters.API\\WideWorldImporters.API.csproj"
+              "C:\\Users\\DEV009.VOADEVLT009\\Desktop\\WideWorldImporters.API\\WideWorldImporters.API\\WideWorldImporters.API.csproj": {
+                "projectPath": "C:\\Users\\DEV009.VOADEVLT009\\Desktop\\WideWorldImporters.API\\WideWorldImporters.API\\WideWorldImporters.API.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\DEV009.VOADEVLT009\\source\\repos\\WideWorldImporters.API\\WideWorldImporters.API\\WideWorldImporters.API.csproj": {
+    "C:\\Users\\DEV009.VOADEVLT009\\Desktop\\WideWorldImporters.API\\WideWorldImporters.API\\WideWorldImporters.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DEV009.VOADEVLT009\\source\\repos\\WideWorldImporters.API\\WideWorldImporters.API\\WideWorldImporters.API.csproj",
+        "projectUniqueName": "C:\\Users\\DEV009.VOADEVLT009\\Desktop\\WideWorldImporters.API\\WideWorldImporters.API\\WideWorldImporters.API.csproj",
         "projectName": "WideWorldImporters.API",
-        "projectPath": "C:\\Users\\DEV009.VOADEVLT009\\source\\repos\\WideWorldImporters.API\\WideWorldImporters.API\\WideWorldImporters.API.csproj",
+        "projectPath": "C:\\Users\\DEV009.VOADEVLT009\\Desktop\\WideWorldImporters.API\\WideWorldImporters.API\\WideWorldImporters.API.csproj",
         "packagesPath": "C:\\Users\\DEV009.VOADEVLT009\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DEV009.VOADEVLT009\\source\\repos\\WideWorldImporters.API\\WideWorldImporters.API\\obj\\",
+        "outputPath": "C:\\Users\\DEV009.VOADEVLT009\\Desktop\\WideWorldImporters.API\\WideWorldImporters.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
