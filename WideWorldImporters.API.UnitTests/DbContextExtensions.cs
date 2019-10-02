@@ -29,7 +29,7 @@ namespace WideWorldImporters.API.UnitTests
                 SearchDetails = "USB missile launcher (Green) Complete with 12 projectiles",
                 LastEditedBy = 1,
                 ValidFrom = Convert.ToDateTime("31/12/2009 11:11:00 PM"),
-                ValidTo = Convert.ToDateTime("31/12/2009  11:59:59 PM")
+                ValidTo = Convert.ToDateTime("31/12/2009 11:59:59 PM")
             });
 
             dbContext.StockItems.Add(new StockItem
@@ -53,7 +53,7 @@ namespace WideWorldImporters.API.UnitTests
                 SearchDetails = "USB rocket launcher (Gray) Complete with 12 projectiles",
                 LastEditedBy = 1,
                 ValidFrom = Convert.ToDateTime("31/12/2009 11:11:00 PM"),
-                ValidTo = Convert.ToDateTime("31/12/2009  11:59:59 PM")
+                ValidTo = Convert.ToDateTime("31/12/2009 11:59:59 PM")
             });
 
             dbContext.StockItems.Add(new StockItem
@@ -77,7 +77,7 @@ namespace WideWorldImporters.API.UnitTests
                 SearchDetails = "Office cube periscope (Black) Need to see over your cubicle wall? This is just what's needed.",
                 LastEditedBy = 1,
                 ValidFrom = Convert.ToDateTime("31/12/2009 11:00:00 PM"),
-                ValidTo = Convert.ToDateTime("31/12/2009  11:59:59 PM")
+                ValidTo = Convert.ToDateTime("31/12/2009 11:59:59 PM")
             });
 
             dbContext.StockItems.Add(new StockItem
@@ -99,7 +99,7 @@ namespace WideWorldImporters.API.UnitTests
                 SearchDetails = "USB food flash drive - sushi roll ",
                 LastEditedBy = 1,
                 ValidFrom = Convert.ToDateTime("31/12/2009 11:11:00 PM"),
-                ValidTo = Convert.ToDateTime("31/12/2009  11:59:59 PM")
+                ValidTo = Convert.ToDateTime("31/12/2009 11:59:59 PM")
             });
 
             dbContext.StockItems.Add(new StockItem
@@ -143,7 +143,7 @@ namespace WideWorldImporters.API.UnitTests
                 SearchDetails = "USB food flash drive - hot dog ",
                 LastEditedBy = 1,
                 ValidFrom = Convert.ToDateTime("31/12/2009 11:11:00 PM"),
-                ValidTo = Convert.ToDateTime("31/12/2009  11:59:59 PM")
+                ValidTo = Convert.ToDateTime("31/12/2009 11:59:59 PM")
             });
 
             dbContext.StockItems.Add(new StockItem
@@ -165,7 +165,7 @@ namespace WideWorldImporters.API.UnitTests
                 SearchDetails = "USB food flash drive - pizza slice ",
                 LastEditedBy = 1,
                 ValidFrom = Convert.ToDateTime("31/12/2009 11:11:00 PM"),
-                ValidTo = Convert.ToDateTime("31/12/2009  11:59:59 PM")
+                ValidTo = Convert.ToDateTime("31/12/2009 11:59:59 PM")
             });
 
             dbContext.StockItems.Add(new StockItem
@@ -187,7 +187,7 @@ namespace WideWorldImporters.API.UnitTests
                 SearchDetails = "USB food flash drive - dim sum 10 drive variety pack ",
                 LastEditedBy = 1,
                 ValidFrom = Convert.ToDateTime("31/12/2009 11:11:00 PM"),
-                ValidTo = Convert.ToDateTime("31/12/2009  11:59:59 PM")
+                ValidTo = Convert.ToDateTime("31/12/2009 11:59:59 PM")
             });
 
             dbContext.StockItems.Add(new StockItem
@@ -209,7 +209,7 @@ namespace WideWorldImporters.API.UnitTests
                 SearchDetails = "USB food flash drive - banana ",
                 LastEditedBy = 1,
                 ValidFrom = Convert.ToDateTime("31/12/2009 11:11:00 PM"),
-                ValidTo = Convert.ToDateTime("31/12/2009  11:59:59 PM")
+                ValidTo = Convert.ToDateTime("31/12/2009 11:59:59 PM")
             });
 
             dbContext.StockItems.Add(new StockItem
@@ -231,7 +231,7 @@ namespace WideWorldImporters.API.UnitTests
                 SearchDetails = "USB food flash drive - chocolate bar ",
                 LastEditedBy = 1,
                 ValidFrom = Convert.ToDateTime("31/12/2009 11:11:00 PM"),
-                ValidTo = Convert.ToDateTime("31/12/2009  11:59:59 PM")
+                ValidTo = Convert.ToDateTime("31/12/2009 11:59:59 PM")
             });
 
             dbContext.StockItems.Add(new StockItem
@@ -253,7 +253,7 @@ namespace WideWorldImporters.API.UnitTests
                 SearchDetails = "USB food flash drive - cookie ",
                 LastEditedBy = 1,
                 ValidFrom = Convert.ToDateTime("31/12/2009 11:11:00 PM"),
-                ValidTo = Convert.ToDateTime("31/12/2009  11:59:59 PM")
+                ValidTo = Convert.ToDateTime("31/12/2009 11:59:59 PM")
             });
 
             dbContext.StockItems.Add(new StockItem
@@ -275,7 +275,7 @@ namespace WideWorldImporters.API.UnitTests
                 SearchDetails = "USB food flash drive - donut ",
                 LastEditedBy = 1,
                 ValidFrom = Convert.ToDateTime("31/12/2009 11:11:00 PM"),
-                ValidTo = Convert.ToDateTime("31/12/2009  11:59:59 PM")
+                ValidTo = Convert.ToDateTime("31/12/2009 11:59:59 PM")
             });
 
             dbContext.SaveChanges();
